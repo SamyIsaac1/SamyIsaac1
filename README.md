@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center"><img src="https://media1.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47xzwcnvczhe3zyh5acpd14i52plsd9bjznuai23um&rid=giphy.gif&ct=s" width="150"/></p>
 <p align="center">
 </p>
 <h1 align="center">Hi 👋, I'm Samy isaac</h1>
@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/samyisaac6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samyisaac6" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/samy isaac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samy isaac" height="30" width="40" /></a>
-<a href="https://fb.com/samy isaac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samy isaac" height="30" width="40" /></a>
+<a href="https://www.facebook.com/samy.eshak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samy isaac" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/samyisaac7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samyisaac7" height="30" width="40" /></a>
 </p>
 
