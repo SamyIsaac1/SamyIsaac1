@@ -1,7 +1,7 @@
 <p align="center"><img src="https://media1.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47xzwcnvczhe3zyh5acpd14i52plsd9bjznuai23um&rid=giphy.gif&ct=s" width="200"/></p>
 <p align="center">
 </p>
-<h1 align="center">Hi 👋, I'm Samy isaac</h1>
+<h1 align="center">Hi 👋, I'm Samy Isaac</h1>
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 <h3 align="center">I'm a Full-Stack Web Developer from Egypt.</h3>
