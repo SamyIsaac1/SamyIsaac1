@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media1.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47xzwcnvczhe3zyh5acpd14i52plsd9bjznuai23um&rid=giphy.gif&ct=s" width="150"/></p>
+<p align="center"><img src="https://media1.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47xzwcnvczhe3zyh5acpd14i52plsd9bjznuai23um&rid=giphy.gif&ct=s" width="200"/></p>
 <p align="center">
 </p>
 <h1 align="center">Hi 👋, I'm Samy isaac</h1>
