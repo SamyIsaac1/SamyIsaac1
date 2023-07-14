@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **samyisaac7@gmail.com**
 
-- 📄 Know about my experiences [drive.google.com/file/resume](https://drive.google.com/file/d/1nTqbAVMBrg1-9bbbjqsnFZrWotHdJAHJ/view?usp=sharing)
+- 📄 Know about my experiences [drive.google.com/file/resume](https://drive.google.com/file/d/14tbj5rNP6_QFfwnBaTAemuUUivRKw0CG/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
